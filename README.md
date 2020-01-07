@@ -12,6 +12,7 @@
 ## Resources
 - [Awesome Medium article about it][1] (the quote above is from it)
 - [jsvu][2] : README is well documented
+- [Learn about v8 ByteCode][5] (picture related)
 
 
 ## Setup
@@ -34,3 +35,4 @@
 [2]: https://github.com/GoogleChromeLabs/jsvu
 [3]: https://unix.stackexchange.com/a/44143
 [4]: https://gist.github.com/cevek/ef1c9761a67d80d642f98cc75885bf31
+[5]: https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
